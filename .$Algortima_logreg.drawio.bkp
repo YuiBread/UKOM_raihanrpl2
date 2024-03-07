@@ -1,0 +1,16 @@
+<mxfile host="Electron" modified="2024-03-04T01:18:58.299Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="Y7XMZbIy2VGjDT_c5Lt2" version="21.2.8" type="device">
+  <diagram name="Page-1" id="E-e3QB8yrydNNGdsqELs">
+    <mxGraphModel dx="1182" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BNmCmgieaK2nJWvq4B3u-1" value="&lt;h1&gt;Algoritma Multi User&lt;/h1&gt;&lt;p&gt;1. user masuk ke halaman form Login&lt;/p&gt;&lt;p&gt;2. jika user tidak mempunyai akun, kilik &quot;daftar&quot; dan akan diarahkan ke Register form&lt;/p&gt;&lt;p&gt;3. jika user punya akun lanjut proses login&lt;/p&gt;&lt;p&gt;4. Input username dan password&lt;/p&gt;&lt;p&gt;5. klik login&lt;/p&gt;&lt;p&gt;6. validasi apakah data sesuai dengan data di database&lt;/p&gt;&lt;p&gt;7. jika tidak kembali ke form login&lt;/p&gt;&lt;p&gt;8. jika benar, validasi username dan level apakah admin/petugas/peminjam&lt;/p&gt;&lt;p&gt;9. jika admin diarahkan ke halaman admin jika petugas diarahkan ke halaman petugas jika peminjam diarahkan ke halaman peminjam&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="220" width="420" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="BNmCmgieaK2nJWvq4B3u-2" value="&lt;h1&gt;Algoritma Register&lt;/h1&gt;&lt;p&gt;1. user masuk ke halaman form Register&lt;/p&gt;&lt;p&gt;2. jika user sudah punya akun, klik Login dan akan diarahkan ke Login form&lt;/p&gt;&lt;p&gt;3. jika tidak, lanjut proses Register&lt;/p&gt;&lt;p&gt;4. Input Data yang diperlukan&lt;/p&gt;&lt;p&gt;5. Klik &quot;Submit&quot;&lt;/p&gt;&lt;p&gt;6. munculkan &quot;data terkirim ke database&quot;&lt;/p&gt;&lt;p&gt;7. user akan di arahkan ke Form login&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="210" width="420" height="340" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
